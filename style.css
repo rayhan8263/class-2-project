@@ -1,0 +1,208 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+body{
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Saira', sans-serif;
+    background: #F3F0EB;
+    box-sizing: border-box;
+}
+
+.save {
+    background: #333333;
+    text-align: center;
+    color: #D4BE84;
+    padding: 4px 0px;
+}
+.save p{
+    font-family: saira;
+    font-weight:100;
+}
+b {
+    margin-right: 4px;
+}
+span{
+    text-decoration: underline;
+}
+.began {
+    text-align: center;
+    padding: 48px 0px;
+    overflow: hidden;
+}
+.heading {
+    font-size: 42px;
+    color: #000;
+    position: relative;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.heading::before {
+    position: absolute;
+    height: 2px;
+    width: 94px;
+    background-color: #D4BE84;
+    bottom: -9px;
+    content: "";
+    text-align: center;
+    margin: auto;
+    display: block;
+    left: 46%;
+  
+}
+.began p {
+    width: 50%;
+    margin: auto;
+    color: #000000;
+    font-family: 'Overpass';
+    line-height: 29px;
+    font-weight: 400;
+}
+.img img {
+    width: 100%;
+}
+.live {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 40px;
+}
+.worry {
+    flex-basis: 50%;
+    text-align: center;
+    padding-top: 88px;
+    padding-left: 8px;
+}
+.worry h2 {
+    text-align: justify;
+    margin-left: 201px;
+}
+.built {
+    flex-basis: 50%;
+}
+.built p {
+    margin-top: 52px;
+    font-family: 'Overpass';
+    line-height: 30px;
+    padding: 0px;
+    margin-right: 126px;
+    font-size: 16px;
+    color: black;
+}
+.colm2 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 96%;
+    margin: auto;
+    padding: 60px 0px;
+}
+.img1 img {
+    width: 100%;
+}
+.img1 {
+    flex-basis: 50%;
+    padding: 13px;
+}
+
+.bg-color {
+    background-color: #282828;
+    padding: 0;
+    float: left;
+    width: 48.2%;
+    margin: 10px;
+    margin-bottom: 20px;
+    margin-top: 6px;
+    padding: 92px;
+}
+.margin {
+    margin-top: -6px;
+}
+.bg-color p {
+    font-size: 14px;
+    line-height: 21px;
+    color: white;
+    font-family: 'Overpass';
+}
+.bg-color h2 {
+    font-size: 24px;
+    font-family: 'Saira';
+    color: #C6B481;
+}
+.bg-color h6 {
+    color: #C6B481;
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 10px;
+}
+.original img {
+    width: 100%;
+}
+.mission {
+    font-size: 28px;
+    font-family: 'Saira';
+    color: #000;
+}
+.tip{}
+
+.about {
+    background: #282828;
+    font-family: 'Overpass';
+    font-size: 26px;
+    line-height: 39px;
+    color: #C6B481;
+    padding: 110px;
+    text-align: center;
+}
+.about p {
+    padding-left: 160px;
+    padding-right: 175px;
+}
+
+.single-product img{
+   width: 100%;
+}
+.single-product h3 {
+  
+}
+.single-product h4{}
+.single-product button {
+  
+}
+.pt-pd{
+   
+}
+
+.fix{overflow:hidden;}
+
+
+.product-area {
+    background-color: #fff;
+    padding: 75px 55px;
+}
+.single-product{
+  box-sizing: border-box;
+  float: left;
+  background-color: #F3F0EB;
+  
+
+}
+.container{
+    width: 94%;
+    margin: auto;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -62px;
+}
+.col-3{
+    float: left;
+    width:32%;
+    padding: 0px 15px;
+    text-align: center;
+    
+}
+button {
+    padding: 17px 35px;
+    display: block;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
